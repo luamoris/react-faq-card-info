@@ -2,18 +2,18 @@
 
 <h4 align="center">Desktop Card 1400x850</h4>
 <p align="center">
-	<img src="./design/desktop.png" alt="Desktop Screenshot."/>
+	<img src="https://raw.githubusercontent.com/luamoris/react-faq-card-info/master/design/desktop.png" alt="Desktop Screenshot."/>
 </p>
 
 <h4 align="center">Mobile Card 375x850</h4>
 <p align="center">
-	<img src="./design/mobile2.png" alt="Mobile Screenshot."/>
+	<img src="https://raw.githubusercontent.com/luamoris/react-faq-card-info/master/design/mobile2.png" alt="Mobile Screenshot."/>
 </p>
 
 ---
 
 
-## Get `started`
+### Get `started`
 
 ```console
 	git clone https://github.com/luamoris/react-faq-card-info
@@ -22,26 +22,27 @@
 	npm start
 ```
 
-## For `build`
+### For `build`
 
 ```console
 	npm run build
 ```
 
-## For `test`
+### For `test`
 
 ```console
 	npm test
 ```
 
-## For `eject`
+### For `eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 ```console
 	npm run eject
 ```
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-## For `lint`
+### For `lint`
 
 - [stylelint][stylelint] - lint SCSS files
 
@@ -49,7 +50,7 @@
 	npm run stylelint
 ```
 
-## More
+### More
 
 + [create-react-app][create-react-app]
 + [running tests][running tests]
