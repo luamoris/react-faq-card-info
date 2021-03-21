@@ -1,8 +1,15 @@
-import './App.css';
+import Card from './components/Card';
+import './scss/app.scss';
 
 function App() {
 	return (
-		<div className="App"></div>
+		<div className="app">
+			<div className="conteiner">
+				<div className="app__body">
+					<Card />
+				</div>
+			</div>
+		</div>
 	);
 }
 
