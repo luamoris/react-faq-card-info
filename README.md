@@ -3,10 +3,8 @@
 
 ### Links
 
-> + [Solution GitHub][solution-repository]
+> + [Source code on GitHub][solution-repository]
 > + [Live Site][deploy]
-
----
 
 
 <h4 align="center">Desktop Card 1400x850</h4>
@@ -22,7 +20,7 @@
 ---
 
 
-### Get `started`
+#### Get `started`
 
 ```console
 	git clone https://github.com/luamoris/react-faq-card-info
@@ -31,19 +29,19 @@
 	npm start
 ```
 
-### For `build`
+#### For `build`
 
 ```console
 	npm run build
 ```
 
-### For `test`
+#### For `test`
 
 ```console
 	npm test
 ```
 
-### For `eject`
+#### For `eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
@@ -51,7 +49,7 @@
 	npm run eject
 ```
 
-### For `lint`
+#### For `lint`
 
 - [stylelint][stylelint] - lint SCSS files
 
@@ -59,7 +57,7 @@
 	npm run stylelint
 ```
 
-### More
+#### More
 
 + [create-react-app][create-react-app]
 + [running tests][running tests]
