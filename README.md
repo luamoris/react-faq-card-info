@@ -1,5 +1,14 @@
 ## Frontend Mentor - FAQ accordion card solution
 
+
+### Links
+
+> + [Solution GitHub][solution-repository]
+> + [Live Site][deploy]
+
+---
+
+
 <h4 align="center">Desktop Card 1400x850</h4>
 <p align="center">
 	<img src="https://raw.githubusercontent.com/luamoris/react-faq-card-info/master/design/desktop.png" alt="Desktop Screenshot."/>
@@ -62,11 +71,6 @@
 
 ## My process
 
-### Links
-
-> Solution URL: [GitHub repository][solution-repository]
-<!-- - Live Site URL: [URL]() -->
-
 ### Built with
 
 > - Semantic HTML5 markup
@@ -103,6 +107,7 @@
 [deployment]: https://facebook.github.io/create-react-app/docs/deployment
 
 [solution-repository]: https://github.com/luamoris/react-faq-card-info
+[deploy]: https://luamoris.github.io/react-faq-card-info/
 
 [course-1]: https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8
 [codepen-1]: https://codepen.io/luamoris/pen/Yzpbbdg
