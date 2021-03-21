@@ -1,34 +1,107 @@
-# Getting Started with Create React App
+## Frontend Mentor - FAQ accordion card solution
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center">Desktop Card 1400x850</h4>
+<p align="center">
+	<img src="./design/desktop.png" alt="Desktop Screenshot."/>
+</p>
 
-## Available Scripts
+<h4 align="center">Mobile Card 375x850</h4>
+<p align="center">
+	<img src="./design/mobile2.png" alt="Mobile Screenshot."/>
+</p>
 
-In the project directory, you can run:
+---
 
-#### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Get `started`
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```console
+	git clone https://github.com/luamoris/react-faq-card-info
+	cd react-faq-card-info
+	npm i
+	npm start
+```
 
-#### `npm test`
+## For `build`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```console
+	npm run build
+```
 
-#### `npm run build`
+## For `test`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```console
+	npm test
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## For `eject`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-#### `npm run eject`
-
+```console
+	npm run eject
+```
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+## For `lint`
+
+- [stylelint][stylelint] - lint SCSS files
+
+```console
+	npm run stylelint
+```
+
+## More
+
++ [create-react-app][create-react-app]
++ [running tests][running tests]
++ [deployment][deployment]
+
+
+---
+
+
+## My process
+
+### Links
+
+> Solution URL: [GitHub repository][solution-repository]
+<!-- - Live Site URL: [URL]() -->
+
+### Built with
+
+> - Semantic HTML5 markup
+> - CSS custom properties
+> - CSS Flexbox
+> - Mobile-first workflow (min-width: 320px)
+> - [React][react] - JS library
+
+### What I learned
+
+>  + With this tutorial, I began my journey to learning React technology.
+> My work on this task has been productive and rewarding.
+
+### Useful resources
+
+> + __Course__: [React JS - путь самурая 1.0][course-1]
+> + __CodePen__: [CSS pop-up questions][codepen-1]
+
+### Author
+
+<p align="left">
+	<a href="https://github.com/luamoris">
+		<img width="50" src="https://avatars.githubusercontent.com/u/70754306?s=460&u=922c28870849f7c9528034f0512e69fb77339c84&v=4 alt="Iosif Luamoris"/>
+	</a>
+</p>
+
+
+
+[stylelint]: https://stylelint.io/
+[react]: https://reactjs.org/
+
+[create-react-app]: https://github.com/facebook/create-react-app
+[running tests]: https://facebook.github.io/create-react-app/docs/running-tests
+[deployment]: https://facebook.github.io/create-react-app/docs/deployment
+
+[solution-repository]: https://github.com/luamoris/react-faq-card-info
+
+[course-1]: https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8
+[codepen-1]: https://codepen.io/luamoris/pen/Yzpbbdg

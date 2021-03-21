@@ -11,7 +11,7 @@
 }
 
 .card {
-	padding: 140px 25px 120px;
+	padding: 50px 25px;
 	width: 920px;
 	height: 510px;
 	box-sizing: content-box;
@@ -226,6 +226,7 @@
 
 @media (max-width: 930px) {
 	.card {
+		padding: 140px 25px 120px;
 		height: auto;
 
 		&__body {
