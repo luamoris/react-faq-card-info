@@ -1,0 +1,54 @@
+/* == == == == == == == == == == == == == == == == == == ==
+	FONTS
+== == == == == == == == == == == == == == == == == == == == */
+
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+
+/* == == == == == == == == == == == == == == == == == == ==
+	NORMALIZE
+== == == == == == == == == == == == == == == == == == == == */
+
+$font-family: "Kumbh Sans", sans-serif;
+
+@import "normalize";
+
+/* == == == == == == == == == == == == == == == == == == ==
+	APP STYLE
+== == == == == == == == == == == == == == == == == == == == */
+
+img {
+	pointer-events: none;
+	user-select: none;
+}
+
+#wrapper {
+	min-width: 320px;
+	min-height: 100%;
+}
+
+.app {
+	width: 100%;
+	min-height: 100vh;
+	background: linear-gradient(180deg, hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+}
+
+.conteiner {
+	margin: 0 auto;
+	padding: 20px 0;
+	max-width: 1440px;
+}
+
+.app__body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
+	width: 100%;
+	min-height: calc(100vh - 40px);
+}
+
+/* == == == == == == == == == == == == == == == == == == ==
+	Style
+== == == == == == == == == == == == == == == == == == == == */
+
+@import "card";
