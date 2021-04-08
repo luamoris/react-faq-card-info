@@ -6,7 +6,7 @@ import womanOnlineDesktop from '../img/illustration-woman-online-desktop.svg';
 import bgPatternMobile from '../img/bg-pattern-mobile.svg';
 import womanOnlineMobile from '../img/illustration-woman-online-mobile.svg';
 
-function Picture() {
+const Picture = () => {
 	return (
 		<div className="picture">
 			<div className="picture__body">
@@ -23,6 +23,6 @@ function Picture() {
 			</div>
 		</div>
 	);
-}
+};
 
 export default Picture;

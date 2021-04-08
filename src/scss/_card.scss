@@ -1,7 +1,7 @@
 
 :root {
 	--bg: #fff;
-	--bs: rgb(88, 64, 184);
+	--shadow: rgb(88, 64, 184);
 	--title: hsl(238, 29%, 16%);
 	--title-hover: hsl(14, 88%, 65%);
 	--topic: hsl(237, 12%, 33%);
@@ -23,7 +23,7 @@
 		border-radius: 20px;
 		width: 100%;
 		height: 100%;
-		box-shadow: var(--bs) 0 25px 35px -5px;
+		box-shadow: var(--shadow) 0 25px 35px -5px;
 		background-color: var(--bg);
 	}
 }
@@ -74,7 +74,7 @@
 	&__body {
 		display: flex;
 		flex-direction: column;
-		align-items: cener;
+		align-items: center;
 		justify-content: flex-start;
 		padding: 70px 70px 40px 0;
 		width: 100%;
